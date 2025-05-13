@@ -5,6 +5,6 @@ Group:
 Consciousness 2
 
 Members: 
-he2305	Hiroki Endo
-jl6932	Jingyi Lai
+he2305	Hiroki Endo, 
+jl6932	Jingyi Lai, 
 lw3161	Liangke Wu
